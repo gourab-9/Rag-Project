@@ -1,0 +1,12 @@
+streamlit 
+google-generativeai 
+PyPDF2 
+faiss-cpu 
+sentence-transformers
+chromadb
+langchain
+langchain-chroma>=0.1.2
+pdfplumber
+langchain-community
+langchain-google-genai
+faiss
